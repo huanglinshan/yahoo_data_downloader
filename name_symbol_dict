@@ -1,0 +1,38 @@
+# Commodities
+Gold|||GC=F
+Silver|||SI=F
+Platinum|||PL=F
+Copper|||HG=F
+Palladium|||PA=F
+Crude Oil|||CL=F
+
+# Currency
+USD/JPY|||JPY=X
+EUR/USD|||EURUSD=X
+USD/CNY|||CNY=X
+USD/HKD|||HKD=X
+
+# Cryptocurrencies
+Tether|||USDT-USD
+Bitcoin|||BTC-USD
+Ethereum|||ETH-USD
+EOS|||EOS-USD
+
+# US Treasury Bonds Rates
+13 WEEK TREASURY BIL|||^IRX
+Treasury Yield 5 Years|||^FVX
+10-Yr Bond|||^TNX
+Treasury Yield 30 Years|||^TYX
+
+# World Indices
+Nasdaq|||^IXIC
+Dow 30|||^DJI
+S&P 500|||^GSPC
+Russell 2000|||^RUT
+Vix|||^VIX
+MOEX Russia Index|||IMOEX.ME
+DAX PERFORMANCE-INDEX|||^GDAXI
+Nikkei 225|||^N225
+SSE Composite Index|||000001.SS
+FTSE 100|||^FTSE
+HANG SENG INDEX|||^HSI
